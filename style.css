@@ -9,17 +9,7 @@ cabecalho{
     justify-content: space-around;
     align-items: center;
     padding: 24px ;
-}cabecalho{
-    margin: 0;
-    padding: 0;
 }
-.cabecalho{
-    background-color: #424e61;
-    color: wheat;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-….estudan
 
 .cabecalho-imagem{
     width: 20%;
@@ -51,17 +41,7 @@ cabecalho{
 .escola-titulo{
     padding: 24px 0;
 }
-cabecalho{
-    margin: 0;
-    padding: 0;
-}
-.cabecalho{
-    background-color: #424e61;
-    color: wheat;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-….estudan
+
 .estudante-imagem{
     width: 120px;
 }
